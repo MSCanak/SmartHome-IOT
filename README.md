@@ -1,2 +1,2 @@
 # SmartHome
-A Smart Home application
+An IOT smart home application.
